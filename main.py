@@ -2,7 +2,7 @@
 """
 Created on Mon Feb 18 06:18:53 2019
 
-@author: TomBrody
+@author: Eric Born
 """
 from random import shuffle
 
